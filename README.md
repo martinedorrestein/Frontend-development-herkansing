@@ -121,7 +121,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Deze week heb ik weer Visual code sinds tijden geopend. Ik moest weer aan alles wennen dus heb veel opgezocht. 
+  
+  <img src="readme-images/doctype_html.png" width="375px" alt="begin van mijn html document">
 
 
   ### Agenda voor meeting
@@ -169,7 +171,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-![Screenshot 2024-01-07 at 21 10 51](https://github.com/martinedorrestein/Frontend-development-herkansing/assets/70860275/04a75e3f-b1ea-4cad-8811-cb1291306da2)
 
 
   ### Agenda voor meeting
