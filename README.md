@@ -169,6 +169,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+![Screenshot 2024-01-07 at 21 10 51](https://github.com/martinedorrestein/Frontend-development-herkansing/assets/70860275/04a75e3f-b1ea-4cad-8811-cb1291306da2)
 
 
   ### Agenda voor meeting
