@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  
+  Voor de opdracht moet ik twee verscillende pagina's van een website (dunkin.nl) uitwerken met een nette vanilla html, css en javascript. 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Website Dunkin small screen homepagina 
@@ -75,7 +75,31 @@ De blauwe tekst is de feedback van Marten tijdens de les. Deze heb ik in de uitw
   <img src="readme-images/Feedback Marten.png" width="375px" alt="Feedback over breakdownschetsen van Marten">
   Marten was in het algemeen erg tevreden over mijn twee breakdownschetsen. Mijn voornaamste fout die ik gemaakt had was dat mijn html semantischer correcter mocht. Ik was namelijk te erg geneigd om te kijken naar de grote van de lettertypes om vanuit daar de hierachie te bepalen. Marten heeft mij uitgelegd dat achteraf door middel van CSS de grote later ga fixen.
   
-   
+## Aantekeningen in de klas (week 1)
+
+Goed om te weten:
+
+- Maak screenshots van de website
+- Elke section heeft een heading
+- Handig om eerst je website te scannen en bijv de kleuren in een css property te zetten
+- Elke variablele beginnen met - - (zonder spatie)
+
+Inclusively hidden
+
+Wanneer je tekst voor de screenrecording wilt verwijderen dan kan je inclusively hidden gebruiken. Denk hierbij aan bijv. kopjes met “Lees meer”, voor de screenreader is dit niet interessant.
+
+[Inclusively Hidden | CSS-Tricks](https://css-tricks.com/inclusively-hidden/)
+
+Vragen tijdens de les
+
+- Wat bedoel je met mobile first? We moeten toch eerst voor desktop maken?
+
+Waar moet ik me in verdiepen?
+
+- Flexbox
+- Grid
+
+
 ### Homepagina menu: 
   <img src="readme-images/breakdownschets_blog_dropdownmenu.png" width="375px" alt="breakdownschets van dropdownmenu">
 
