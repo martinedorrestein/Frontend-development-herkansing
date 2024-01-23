@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Website Dunkin small screen homepagina 
-  <img src="readme-images/Martine_dorrestein_Frontenddevelopment_herkansing_breakdownschets_mobile.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Martine_dorrestein_Frontenddevelopment_herkansing_breakdownschets_mobile.png" width="375px" alt="Website Dunkin small screen homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Website Dunkin small screen blogpagina
-  <img src="readme-images/Martine_dorrestein_Frontenddevelopment_herkansing_breakdownschets_mobile_blogs.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Martine_dorrestein_Frontenddevelopment_herkansing_breakdownschets_mobile_blogs.png" width="375px" alt="  Website Dunkin small screen blogpagina">
  
 </details>
 
@@ -68,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
