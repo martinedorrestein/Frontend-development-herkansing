@@ -68,14 +68,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdown van de gehele pagina">
+De blauwe tekst is de feedback van Marten tijdens de les. Deze heb ik in de uitwerking ook toegevoegd.
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+    ### Feedback Marten
+  <img src="readme-images/Feedback Marten.png" width="375px" alt="Feedback over breakdownschetsen van Marten">
+  Marten was in het algemeen erg tevreden over mijn twee breakdownschetsen. Mijn voornaamste fout die ik gemaakt had was dat mijn html semantischer correcter mocht. Ik was namelijk te erg geneigd om te kijken naar de grote van de lettertypes om vanuit daar de hierachie te bepalen. Marten heeft mij uitgelegd dat achteraf door middel van CSS de grote later ga fixen.
+  ### Homepagina menu: 
+  <img src="readme-images/breakdownschets_blog_dropdownmenu.png" width="375px" alt="breakdownschets van dropdownmenu">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ###   Homepagina Bestel knop
+  <img src="readme-images/breakdownschets_section.jpg" width="375px" alt="Breakdownschets bestel knop">
 
+###   Blogpagina Dropdown menu
+<img src="readme-images/breakdownschets_blog_dropdownmenu.png" width="375px" alt="Breakdownschets dropdownmenu">
 </details>
 
 
