@@ -26,7 +26,7 @@ function switchLightDarkMode() {
 
     if (mode === "light") {
         lightDarkModeButton.setAttribute("aria-mode", "dark");
-        image.setAttribute("src", "/images/moon.svg");
+        image.setAttribute("src", "images/moon.svg");
         document.documentElement.style.setProperty("--color-background", "#000");
         document.documentElement.style.setProperty("--smoke", "#050505");
         document.documentElement.style.setProperty("--almost", "#101010");
@@ -42,7 +42,7 @@ function switchLightDarkMode() {
         
     } else {
         lightDarkModeButton.setAttribute("aria-mode", "light");
-        image.setAttribute("src", "/images/sun.svg");
+        image.setAttribute("src", "images/sun.svg");
         document.documentElement.style.setProperty("--color-background", "#fff");
         document.documentElement.style.setProperty("--smoke", "#f5f5f5");
         document.documentElement.style.setProperty("--almost", "#f0f0f0");
