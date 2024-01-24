@@ -260,8 +260,8 @@ Animaties via CSS zijn manieren om elementen op een webpagina dynamisch te laten
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
-- Ik heb geleerd hoe ik semantisch correct moet coderen (plaatje 1)  <img src="1.png" width="375px" alt="Screenshot semantisch correct coderen">
-- Ik heb geleerd om elementen aan te roepen in mijn html door middel van classes (plaatje 2)<img src="2.png" width="375px" alt="Screenshot html ellementen oproepen door css">
+- Ik heb geleerd hoe ik semantisch correct moet coderen (plaatje 1)  <img src="1.jpg" width="375px" alt="Screenshot semantisch correct coderen">
+- Ik heb geleerd om elementen aan te roepen in mijn html door middel van classes (plaatje 2)<img src="2.jpg" width="375px" alt="Screenshot html ellementen oproepen door css">
 - Hamburgerknop geleerd te maken met javascript erbij
 - Animaties geleerd te maken door middel van css en javascript
 - Ik heb veel geleerd over het element Sticky en hoe ik iets laat 'kleven' aan de bovenkant
@@ -269,8 +269,6 @@ Animaties via CSS zijn manieren om elementen op een webpagina dynamisch te laten
 - Advanced positioning met fixed
 - Geleerd hoe ik kan switchen naar een darkmode
 
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
