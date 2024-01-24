@@ -141,36 +141,21 @@ Waar moet ik me in verdiepen?
 
 
 
-
 ## Voortgang 2 (week 3)
 
 <details>
-  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
+  <summary>Deze week heb ik me verdiept in Flexbox. 
+
+Wat is flexbox?
+Flexbox is als een superheld voor het regelen van de indeling van elementen op een website. Het maakt het makkelijker om dingen naast elkaar te zetten, ze in het midden van een pagina te plaatsen of zelfs in een kolom te zetten.
+
+Stel je voor dat je een rij blokken op je website hebt en je wilt dat ze allemaal dezelfde hoogte hebben, ongeacht hoeveel tekst erin staat. Met Flexbox kan je dat makkelijk doen! Het helpt je ook om de ruimte tussen de blokken te regelen of om ze te laten uitrekken om de beschikbare ruimte in te nemen.
+
+Dus kort gezegd, Flexbox geeft je de kracht om de lay-out van je website flexibeler en eenvoudiger te beheren. Het maakt het leven van webontwikkelaars een stuk gemakkelijker door hen controle te geven over hoe dingen eruitzien en zich gedragen op een webpagina<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Deze week heb ik weer Visual code sinds tijden geopend. Ik moest weer aan alles wennen dus heb veel opgezocht. 
-  
-  <img src="readme-images/doctype_html.png" width="375px" alt="begin van mijn html document">
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+- Deze week heb ik me verdiept in Flexbox door middel van een video (zie bron 1)
+- Daarnaast heb ik me alvast verdiept in CSS en HTML. Tijdens de les kwam ik erachter dat ik behoorlijk is weggezakt en dit wilde ik graag weer ophalen (zie bron 2,3 en 4)
 </details>
 
 
@@ -194,31 +179,23 @@ Waar moet ik me in verdiepen?
 ## Voortgang 3 (week 4)
 
 <details>
-  <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
+  <summary>Deze week stond in het teken van JavaScript. JavaScript helpt bij het efficiënter schrijven van code en bij het laten samenwerken van HTML-elementen. Via het Document Object Model (DOM) kun je verwijzen naar HTML-elementen. Om ook CSS hierbij te betrekken, gebruik je document.querySelector in JavaScript, waarmee je het bijbehorende element uit de CSS kunt selecteren. Verder kun je met addEventListener een functie laten uitvoeren. Tot slot kun je de console van een browser gebruiken om naar eventuele fouten te kijken en de uitvoer van je code te controleren.<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  - Deze week heb ik me verdiept in Javascript doordat ik oefeningen heb gemaakt op DLO en de volgende video's heb bekeken (zie bron 5 en 6)
+  - Ik ben begonnen met mijn start aan CSS. Het is me gelukt om de helft van de homepagina te maken.(zie afbeeldingen)
 
+CSS screenshots
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+<img src="readme-images/CSS1.jpg" width="375px" alt="screenshot CSS pagina">
+  <img src="readme-images/CSS 2.jpg" width="375px" alt="screenshot CSS pagina">
+   <img src="readme-images/CSS3.jpg" width="375px" alt="screenshot CSS pagina">
+   
+HMTML screenshots
+<img src="readme-images/html1.jpg" width="375px" alt="screenshot html pagina">
+<img src="readme-images/html2.jpg" width="375px" alt="screenshot html pagina">
 </details>
+
 
 
 
