@@ -166,14 +166,14 @@ Dus kort gezegd, Flexbox geeft je de kracht om de lay-out van je website flexibe
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
-<img src="readme-images/FED 23-24 - Blok 2 - WCAG checklist copy.pdf" width="375px" alt="Toegankelijkheidstest ">
+<img src="readme-images/wcagchecklist.pdf" width="375px" alt="Toegankelijkheidstest ">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
 </details>
 
-<img src="readme-images/FED 23-24 - Blok 2 - martine_dorrestein_screenreadertest_2.pdf" width="375px" alt="Toegankelijkheidstest ">
+<img src="readme-images/screenreadertest2.pdf" width="375px" alt="Toegankelijkheidstest ">
 
 
 
