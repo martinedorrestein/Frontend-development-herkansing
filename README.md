@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Voor de opdracht moet ik twee verscillende pagina's van een website (dunkin.nl) uitwerken met een nette vanilla html, css en javascript. 
+  Voor de opdracht moet ik twee verscillende pagina's van een website (dunkin.nl) uitwerken met een nette vanilla html, css en javascript. Website dunkin: https://www.dunkin.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Website Dunkin small screen homepagina 
@@ -45,18 +45,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de tweede pagina (small screen):
   Website Dunkin small screen blogpagina
   <img src="readme-images/Martine_dorrestein_Frontenddevelopment_herkansing_breakdownschets_mobile_blogs.png" width="375px" alt="  Website Dunkin small screen blogpagina">
- 
 </details>
 
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
+
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>De toegankelijkheid van de website heb ik getest met de voiceover van mac. Ik vond het erg lastig om de punten naar voren te halen die niet klopte aangezien de VO erg snel praatte. <sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+1. Ontbrekende alt-tekst: Het lijkt erop dat sommige afbeeldingen op de website mogelijk geen alt-tekst bevatten, waardoor gebruikers met screenreaders de inhoud van deze afbeeldingen niet begrijpen
+2. Onvoldoende semantische structuur: Mogelijk wordt er onvoldoende gebruik gemaakt van semantische HTML-tags, wat kan leiden tot een minder duidelijke structuur voor screenreaders.
+3. Verwarrende linkteksten: De linkteksten op de website zijn mogelijk niet altijd duidelijk en specifiek genoeg, waardoor het voor gebruikers met screenreaders moeilijk kan zijn om de bestemming van de links te begrijpen.
+4. knoppen hebben geen altekst waardoor de gebruiker van de screeenreader niet weet of het wel of niet klikbaar is.
+5. Bij verschillende elementen hebben de kleuren een te laag contrast waardoor slechtzienden maar ook kleurenblind personen geen onderscheid kunnen maken van het verschil.
+6. De screenreader bij het openen van de website met" "Dunkin is op zoek naar jou! Bekijk onze vacatures!" (zie afbeelding)
+  <img src="readme-images/Feedback Marten.png" width="375px" alt="Aside Dunkin"> Dit is voor de luisteraar van de screenreader geen relevante informatie om de website te begrijpen dus zou weg moeten worden gelaten voor screenreader.
+7. De volgorde van de koppen kloppen niet. De meeste sections beginnen met een H2 die gevolgd wordt met een H5. Dit klopt niet en zou een H3 moeten zijn.
+8. Je kunt met KO niet makkelijk naar een bepaald kopje, want dat moet je alle andere inhoudselementen met dezelfde functie langsgaan.
+9. Het menu wordt door de screenreader niet aangegeven
+   
 
 </details>
 
@@ -86,7 +96,7 @@ De blauwe tekst is de feedback van Marten tijdens de les. Deze heb ik in de uitw
 <img src="readme-images/breakdownschets_blog_dropdownmenu.png" width="375px" alt="Breakdownschets dropdownmenu">
 </details>
 
-## Aantekeningen in de klas (week 1)
+### Aantekeningen in de klas (week 1)
 
 Goed om te weten:
 
@@ -109,6 +119,8 @@ Waar moet ik me in verdiepen?
 
 - Flexbox
 - Grid
+
+  
 
 
 
