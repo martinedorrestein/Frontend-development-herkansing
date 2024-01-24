@@ -248,17 +248,20 @@ Animaties via CSS zijn manieren om elementen op een webpagina dynamisch te laten
     5. Scroll to top button --> zie oranje ronde knop rechts onder de pagina (zie bron 12)
 </details>
 
-## Eindgesprek (week 5)
+## Eindgesprek (week 7)
 
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshothomepaginaeind.png" width="375px" alt="Screenshot van mijn Dunkin home pagina resultaat">
+  <img src="readme-images/screenshotblogeind.png" width="375px" alt="Screenshot van mijn Dunkin blog pagina resultaat">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+- Ik heb geleerd hoe ik semantisch correct moet coderen (plaatje 1)
+- Ik
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
