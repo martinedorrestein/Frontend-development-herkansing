@@ -1,21 +1,213 @@
 <!DOCTYPE html>
 <html lang="nl">
-	
+
 <head>
 	<meta charset="UTF-8">
-	<meta name="Martine Dorrestein" content="Martine Dorrestein">
+	<meta name="Martine Dorrestein" content="Homepagina - Dunkin donuts">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy FED2324</title>
-	
+
+	<title>Homepagina - Dunkin donuts</title>
+
 	<link href="styles/style.css" rel="stylesheet">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
 </head>
 
-<body>
-	<h1>Howdy FED2324</h1>
-
+<body class="home">
+	<header>
+		<aside aria-hidden="true">
+			<p>
+				Dunkin' is op zoek naar jou! Bekijk onze
+				<a href="/404.html">vacatures</a>
+			</p>
+		</aside>
+		<nav>
+			<button>
+				<img src="images/nl.svg" alt="Nederlandse taal instelling">
+			</button>
+			<a href="/index.html">
+				<img src="images/primary_logo_dunkin.svg" alt="Dunkin logo, link verwijst naar homepagina">
+			</a>
+			<button id="light-dark-mode-button" aria-mode="light">
+				<img src="/images/sun.svg" alt="Zon icoontje, klik hier om te switchen van light naar dark mode">
+			</button>
+			<button id="nav-button" aria-expanded="false">
+				<span class="sr-only">primaire navigatie</span>
+				<svg class="hamburger" viewBox="0 0 100 100" width="32" height="32">
+					<rect class="line top" width="80" height="10" x="10" y="25" rx="5"></rect>
+					<rect class="line middle" width="80" height="10" x="10" y="45" rx="5"></rect>
+					<rect class="line bottom" width="80" height="10" x="10" y="65" rx="5"></rect>
+				</svg>
+			</button>
+			<section aria-hidden="false" id="navigation-menu">
+				<ul>
+					<li><a class="current" href="/index.html">Home</a></li>
+					<li><a href="/404.html">Storefinder</a></li>
+					<li><a href="/404.html">Jobs</a></li>
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="/404.html">More ></a></li>
+					<li><a href="/404.html">Bestellen</a></li>
+				</ul>
+				<ul>
+					<li><a href="/404.html"><img src="images/tiktok_logo_orange.svg" alt=""></a></li>
+					<li><a href="/404.html"><img src="images/instagram_logo_orange.svg" alt=""></a></li>
+					<li><a href="/404.html"><img src="images/facebook_logo_orange.svg" alt=""></a></li>
+				</ul>
+			</section>
+		</nav>
+		<aside>
+			<a class="big-button button" href="/404.html">Order now <span class="sr-only">, klik hier om Dunkin te bestellen</span></a>
+		</aside>
+	</header>
+	<main>
+		<h1 class="sr-only">Homepagina Dunkin Donuts</h1>
+		<button id="scroll-to-top" aria-hidden="true">
+			<svg xmlns="http://www.w3.org/2000/svg" width="25.434" height="16.253" viewBox="0 0 25.434 16.253">
+				<path id="Path_1" data-name="Path 1" d="M99.47,272.991l10.949-10.949,10.949,10.949" transform="translate(-97.702 -258.506)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" />
+			</svg>
+		</button>
+		<section>
+			<a href="/404.html" class="round-border" id="coffee">
+				<h2 class="uppercase">We love coffee</h2>
+				<figure>
+					<img src="images/welovecoffee_coffee_middle.png" alt="Uitgeknipte plaatjes van 3 Dunkin Coffees">
+					<img src="images/coffee_right_side_homepage.png">
+					<img src="images/coffee_right_side_homepage.png">
+				</figure>
+			</a>
+			<section class="round-border" id="order">
+				<h2 class="uppercase">Bestel!</h2>
+				<p>Maak een keuze</p>
+				<div class="side-by-side-buttons">
+					<button id="bezorgen-button" class="button">Bezorgen</button>
+					<button id="afhalen-button" class="button">Afhalen</button>
+				</div>
+			</section>
+			<a href="/404.html" class="round-border" id="ajax">
+				<h2 class="uppercase">Dunking x Ajax</h2>
+				<img src="images/football_players_ajax_dunkinxajax.png" alt="Foto van 4 Ajax teamspelers met Dunkin dozen in hun handen">
+			</a>
+		</section>
+		<section>
+			<h2 class="uppercase">Bestel <span>Dunkin'</span> online</h2>
+			<ol>
+				<li class="order-step">
+					<div class="circle" aria-hidden="true">
+						<img src="images/white_peace.svg">
+					</div>
+					<div>
+						<h3>1. Vul je postcode in</h3>
+						<p>Zoek jij een store in de buurt? Gebruik de Dunkin' storefinder</p>
+					</div>
+				</li>
+				<li class="order-step">
+					<div class="circle" aria-hidden="true">
+						<img src="images/white_donut.svg">
+					</div>
+					<div>
+						<h3>2. Plaats je bestelling</h3>
+						<p>Kies uit meer dan 200 verschillende donut smaken. Welke kies jij?</p>
+					</div>
+				</li>
+				<li class="order-step">
+					<div class="circle" aria-hidden="true">
+						<img src="images/white_package.svg">
+					</div>
+					<div>
+						<h3>3. Ontvang je bestelling</h3>
+					</div>
+				</li>
+			</ol>
+			<a class="big-button button" href="/404.html">Order now <span class="sr-only">, klik hier om Dunkin te bestellen</span></a>
+		</section>
+		<article id="app" class="round-border">
+			<h2 class="uppercase">App jij 'm al?</h2>
+			<h3 class="uppercase">De dunkin' app</h3>
+			<p>Lekker scoren met exclusieve coupons en leuke campagnes met winacties.</p>
+			<a href="/404.html">
+				<img src="images/available_on_the_app_store.svg" alt="Link naar Apple App Store om de Dunkin App te downloaden">
+			</a>
+			<a href="/404.html">
+				<img src="images/googel_play.svg" alt="Link naar Google Play Store om de Dunkin App te downloaden">
+			</a>
+			<img src="images/dunkin_app_mobile.svg" alt="Een smartphone met de Dunkin app op het scherm">
+		</article>
+		<article class="opening">
+			<h2>Nieuwe vestiging Dunkin' Donuts aan het spui in...</h2>
+			<p>Vestiging Dunkin' Donuts opent aan het Spui in Den Haag: Bel ons voor gratis donuts!</p>
+			<a class="big-button button" href="/404.html">Lees meer <span class="sr-only">over de nieuwe vestiging op het Spui</span></a>
+			<div>
+				<img src="images/donut_mascotte_brown.png" alt="Foto van iemand in een Dunkin mascotte pak, de mascotte is een chocolade donut">
+				<div class="circle" aria-hidden="true">
+					<img src="images/white_heart.svg">
+				</div>
+			</div>
+		</article>
+		<article class="opening">
+			<h2>Dunkin' opent in Amersfoort</h2>
+			<p>Dunkin' opent in Amersfoort! Sint Jorisplein 34</p>
+			<a class="big-button button" href="/404.html">Lees meer</a>
+			<div>
+				<img src="images/opening_amersfoort_25mei.jpg" alt="Flyer van de opening">
+				<div class="circle" aria-hidden="true">
+					<img src="images/white_heart.svg">
+				</div>
+			</div>
+		</article>
+		<section id="news">
+			<header>
+				<h2><span>DD</span> Nieuws</h2>
+				<a class="big-button button" href="/404.html">Alle blogs</a>
+			</header>
+			<section class="blog">
+				<a href="/404.html">
+					<article>
+						<h3>Omcirkel de datum alvast in je agenda, op 28 juli aanstaande opent Dunkin' een ...</h3>
+						<p>Winkels</p>
+						<img src="images/hello_denbosch_opening.jpg" alt="Flyer van opening Dunkin Den Bosch">
+					</article>
+				</a>
+				<div aria-hidden="true">
+					<button> &lt; </button>
+					<button> &gt; </button>
+				</div>
+			</section>
+		</section>
+		<section class="round-border" id="store-finder">
+			<h2>Store finder</h2>
+			<p>Vind een Dunkin' in de buurt</p>
+			<a class="big-button button" href="/404.html">Find your store</a>
+			<div>
+				<img id="map" src="images/donuts_locations_netherlands.png" alt="kaart met locaties van verschillende Dunkin vestigingen">
+				<img class="dnkn-logo" src="images/dunkin_logo_short.svg" aria-hidden="true">
+			</div>
+		</section>
+	</main>
+	<footer>
+		<section>
+			<img class="dnkn-logo" src="images/dunkin_logo_short.svg" aria-hidden="true">
+			<nav>
+				<ul>
+					<li><a class="big-button button" href="/404.html">Storefinder</a></li>
+					<li><a class="big-button button" href="/404.html">Jobs</a></li>
+					<li><a class="big-button button" href="/blog.html">Blogs</a></li>
+					<li><a class="big-button button" href="/404.html">Over Dunkin</a></li>
+				</ul>
+			</nav>
+			<nav>
+				<ul>
+					<li> <a href="/404.html"><img src="images/tiktok_logo_orange.svg" alt="Dunkin op TikTok"></a></li>
+					<li> <a href="/404.html"><img src="images/instagram_logo_orange.svg" alt="Dunkin op Instagram"></a></li>
+					<li> <a href="/404.html"><img src="images/facebook_logo_orange.svg" alt="Dunkin op Facebook"></a></li>
+				</ul>
+			</nav>
+		</section>
+		<section>
+			<p>
+				2022 DD IP Holder | <a href="/404.html">Privacy Policy</a> | <a href="/404.html">Algemene voorwaarden</a> | by <a href="/404.html">Foodticket</a>
+			</p>
+		</section>
+	</footer>
 	<script defer src="scripts/script.js"></script>
 </body>
-	
+
 </html>

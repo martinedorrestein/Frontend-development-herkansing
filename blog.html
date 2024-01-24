@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Dunkin Donuts</title>
+
+    <link href="styles/style.css" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+
+<body id="blog">
+    <header>
+        <aside aria-hidden="true">
+            <p>
+                Dunkin' is op zoek naar jou! Bekijk onze
+                <a href="/404.html">vacatures</a>
+            </p>
+        </aside>
+        <nav>
+            <button>
+                <img src="images/nl.svg" alt="Nederlandse taal instelling">
+            </button>
+            <a href="/index.html">
+                <img src="images/primary_logo_dunkin.svg" alt="Dunkin logo, link verwijst naar homepagina">
+            </a>
+            <button id="light-dark-mode-button" aria-mode="light">
+                <img src="/images/sun.svg" alt="Zon icoontje, klik hier om te switchen van light naar dark mode">
+            </button>
+            <button id="nav-button" aria-expanded="false">
+                <span class="sr-only">primaire navigatie</span>
+                <svg class="hamburger" viewBox="0 0 100 100" width="32" height="32">
+                    <rect class="line top" width="80" height="10" x="10" y="25" rx="5"></rect>
+                    <rect class="line middle" width="80" height="10" x="10" y="45" rx="5"></rect>
+                    <rect class="line bottom" width="80" height="10" x="10" y="65" rx="5"></rect>
+                </svg>
+            </button>
+            <section aria-hidden="false" id="navigation-menu">
+                <ul>
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="/404.html">Storefinder</a></li>
+                    <li><a href="/404.html">Jobs</a></li>
+                    <li><a class="current" href="/blog.html">Blog</a></li>
+                    <li><a href="/404.html">More ></a></li>
+                    <li><a href="/404.html">Bestellen</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/404.html"><img src="images/tiktok_logo_orange.svg" alt=""></a></li>
+                    <li><a href="/404.html"><img src="images/instagram_logo_orange.svg" alt=""></a></li>
+                    <li><a href="/404.html"><img src="images/facebook_logo_orange.svg" alt=""></a></li>
+                </ul>
+            </section>
+        </nav>
+		<aside>
+			<a class="big-button button" href="/404.html">Order now <span class="sr-only">, klik hier om Dunkin te bestellen</span></a>
+		</aside>
+    </header>
+    <main>
+        <section id="filter">
+            <h1>DD blogs</h1>
+            <label for="search" class="sr-only">Zoekveld voor Dunkin Blogs</label>
+            <input id="search" type="search" placeholder="Zoeken...">
+            <select name="categories">
+                <option value="categories">Categorieen</option>
+                <option value="new">Nieuw</option>
+                <option value="vegan">Vegan</option>
+                <option value="stores">Winkels</option>
+                <option value="business">Business</option>
+            </select>
+            <select name="date">
+                <option value="date">Datum</option>
+                <option value="">2024</option>
+                <option value="">2023</option>
+                <option value="">2022</option>
+            </select>
+        </section>
+        <section class="blog">
+            <a href="/404.html">
+                <article>
+                    <h2>Dunkin' opent een nieuwe vestiging in Breda</h2>
+                    <p>Winkels</p>
+                    <img src="/images/gratis_donuts.jpg" alt="gratis donuts advertentie">
+                </article>
+            </a>
+            <a href="/404.html">
+                <article>
+                    <h2>Omcirkel de datum alvast in je agenda, op 28 juli aanstaande opent Dunkin' een...</h2>
+                    <p>Winkels</p>
+                    <img src="/images/hello_denbosch_opening.jpg" alt="advertentie opening nieuwe Dunkin in Den Bosch">
+                </article>
+            </a>
+            <a href="/404.html">
+                <article>
+                    <h2>Dunkin' opent in Amersfoort! Sint Jorisplein 34</h2>
+                    <p>Winkels</p>
+                    <img src="/images/opening_amersfoort_25mei.jpg" alt="advertentie opening nieuwe Dunkin in Amersfoort">
+                </article>
+            </a>
+            <a href="/404.html">
+                <article>
+                    <h2>Oproep aan alle vegans out there: Donut worry, we got you covered!</h2>
+                    <p>Vegan</p>
+                    <img src="images/donut_package_smiley_heart.jpeg" alt="Doos met verschillende donuts">
+                </article>
+            </a>
+            <a href="/404.html">
+                <article>
+                    <h2>AFC Ajax en Dunkin’ hebben een samenwerkings-...</h2>
+                    <p>Business</p>
+                    <img src="images/ajax-spelers.png" alt="Ajax spelers met dunkin dozen">
+                </article>
+            </a>
+        </section>
+    </main>
+    <footer>
+        <section>
+            <img class="dnkn-logo" src="images/dunkin_logo_short.svg" aria-hidden="true">
+            <nav>
+                <ul>
+                    <li><a class="big-button button" href="/404.html">Storefinder</a></li>
+                    <li><a class="big-button button" href="/404.html">Jobs</a></li>
+                    <li><a class="big-button button" href="/blog.html">Blogs</a></li>
+                    <li><a class="big-button button" href="/404.html">Over Dunkin</a></li>
+                </ul>
+            </nav>
+            <nav>
+                <ul>
+                    <li> <a href="/404.html"><img src="images/tiktok_logo_orange.svg" alt="Dunkin op TikTok"></a></li>
+                    <li> <a href="/404.html"><img src="images/instagram_logo_orange.svg" alt="Dunkin op Instagram"></a></li>
+                    <li> <a href="/404.html"><img src="images/facebook_logo_orange.svg" alt="Dunkin op Facebook"></a></li>
+                </ul>
+            </nav>
+        </section>
+        <section>
+            <p>
+                2022 DD IP Holder | <a href="/404.html">Privacy Policy</a> | <a href="/404.html">Algemene voorwaarden</a> | by <a href="/404.html">Foodticket</a>
+            </p>
+        </section>
+    </footer>
+    <script defer src="scripts/script.js"></script>
+</body>
+
+</html>
