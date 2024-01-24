@@ -124,29 +124,16 @@ Waar moet ik me in verdiepen?
 ## Voortgang 1 (week 2)
 
 <details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
+  <summary>De eerste twee weken heb ik me bezig gehouden met de DLO oefening over grid. Ik vond dit in eerste instantie lastig te begrijpen waardoor ik hier veel verdieping in heb gemaakt. Daarnaast ben ik bezig geweest met het vullen van mijn HTML website gebasseerd op mijn breakdownschets. Omdat ik mijn breakdownschets erg nauwkeurig had gemaakt, was dit een makkelijk werkje. Ook heb ik me bezig gehouden met alle afbeeldingen stoppen in mijn html pagina. 
+    <img src="readme-images/html_inhoud.png" width="375px" alt="html inhoud">
+    <sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  - html van zowel de homepagina als blogpagina staat in de code
+  - Alle afbeeldingen zijn toegevoegd
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ <img src="readme-images/html_inhoud.png" width="375px" alt="html inhoud">
+ 
 
 </details>
 
