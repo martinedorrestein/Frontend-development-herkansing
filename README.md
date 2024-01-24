@@ -188,7 +188,7 @@ Dus kort gezegd, Flexbox geeft je de kracht om de lay-out van je website flexibe
 CSS screenshots
 
 <img src="readme-images/CSS1.jpg" width="375px" alt="screenshot CSS pagina">
-  <img src="readme-images/CSS 2.jpg" width="375px" alt="screenshot CSS pagina">
+  <img src="readme-images/CSS2.jpg" width="375px" alt="screenshot CSS pagina">
    <img src="readme-images/CSS3.jpg" width="375px" alt="screenshot CSS pagina">
    
 HMTML screenshots
@@ -197,9 +197,55 @@ HMTML screenshots
 </details>
 
 
+## Voortgang 4 (week 5) positioneren en voortgang 2
 
+<details>
+  <summary><sup>
+Deze les behandelde het onderwerp 'positioneren'. Met positioneren wil je een element op een specifieke locatie binnen een ouder- of schermelement plaatsen. Er zijn vijf soorten positioneringen:
 
+Position: static
+Dit is de standaardpositie en wordt bepaald door de plaats in de HTML, met behulp van eigenschappen zoals top, right, bottom en left. Het wordt ook wel het 'flow lay-out' genoemd.
 
+Position: relative
+Houdt een element in de stroom van elementen.
+
+Position: absolute
+Het element wordt uit de stroom gehaald, waardoor je elementen los van elkaar kunt positioneren.
+
+Position: fixed
+Het element wordt uit de stroom gehaald, maar blijft wel op een vaste plek staan, zelfs als je naar beneden scrolt op de pagina.
+
+Position: sticky
+Houdt een element in de stroom. Als het element uit het zicht verdwijnt tijdens het scrollen, blijft het element op zijn plek 'plakken'.
+
+Zie bron 7</sup> voortgang</summary>
+
+  ### Stand van zaken
+- Homepagina afgemaakt met HTML en CSS
+   <img src="readme-images/home1.jpg" width="375px" alt="homepagina css">
+- Begonnen aan de blogpagina
+-  <img src="readme-images/blog1.jpg" width="375px" alt="blogpagina css">
+
+### Voortgang 2
+- Mijn html zag er goed uit en alles was in orde.
+- Ik mag voor mijn CSS rekening houden dat ik niet dubbelop mijn code schrijf. De code is af en toe namelijk dubbelop en dit zorgt ervoor dat het onoverzichtelijk wordt.
+
+## Voortgang 5 (week 6) animeren
+
+<details>
+  <summary>Voor de opdracht zullen we moeten werken met een animatie. Tijdens de les hebben we uitleg gekregen over hoe we deze animatie kunnen maken.
+Animaties via CSS zijn manieren om elementen op een webpagina dynamisch te laten bewegen, veranderen of van vorm te laten veranderen. Met CSS-animaties kun je eigenschappen zoals positie, grootte, kleur en transparantie van HTML-elementen soepel en gecontroleerd aanpassen.<sup>e</sup> voortgang</summary>
+
+  ### Stand van zaken
+  - Ik heb mijn blogpagina afgekeregen.
+  -Navigatie menu (zie bron 7)
+  - Dit betekent dat ik me kan verdiepen in het toevoegen van Surface plane elementen. Ik heb de volgende surface plane elementen toegevoegd;
+    1. SVG icons stylen en animeren --> zie hamburgermenu die wordt geanimeerd naar een kruisje wanneer je op het hamburgermenu klikt (zie bron 10)
+    2. Advanced positioning (sticky, fix, etc.) (bron 9)
+    3. DOM methode --> zie navigatiebar (zie bron 7)
+    4. Darkmode, lightmode --> zie maantje/zonnetje op de navigatiebar links naast het DUNKIN logo (zie bron 11)
+    5. Scroll to top button --> zie oranje ronde knop rechts onder de pagina (zie bron 12)
+</details>
 
 ## Eindgesprek (week 5)
 
@@ -235,8 +281,16 @@ HMTML screenshots
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  1. bron 1 What is flexbox? https://www.youtube.com/watch?v=dz-bnc1yteI
+  2. bron 2 HTML tutorial voor beginners https://www.youtube.com/watch?v=gMBUxCgcz1g
+  3. bron 3 Learn CSS in 20 minutes https://www.youtube.com/watch?v=1PnVor36_40
+  4. Bron 4 How to link a CSS stylesheet using html https://www.youtube.com/watch?v=4OMdzHnys9o
+  5. Bron 5 JAvascript tutorial voor beginners https://www.youtube.com/watch?v=W6NZfCO5SIk
+  6. Bron 6 100+ JavaSCript Concepts you need to know https://www.youtube.com/watch?v=lkIFF4maKMU
+  7. Bron 7 Position artikel https://css-tricks.com/almanac/properties/p/position/
+  8. Bron 8 Navigatie menu https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
+  9. Bron 9 Sticky https://jsfiddle.net/b43hj/
+  10. Bron 10 Basic, intermediate  & pro animated hamburger icons https://www.youtube.com/watch?v=R00QiudbD4Y
+  11. Bron 11 How to make a website light/dark toggle with CSS & JS https://www.youtube.com/watch?v=wodWDIdV9BY
+  12. Bron 12 Scroll down https://stackoverflow.com/questions/15935318/smooth-scroll-to-top 
 </details>
