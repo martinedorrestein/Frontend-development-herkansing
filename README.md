@@ -125,7 +125,7 @@ Waar moet ik me in verdiepen?
 
 <details>
   <summary>De eerste twee weken heb ik me bezig gehouden met de DLO oefening over grid. Ik vond dit in eerste instantie lastig te begrijpen waardoor ik hier veel verdieping in heb gemaakt. Daarnaast ben ik bezig geweest met het vullen van mijn HTML website gebasseerd op mijn breakdownschets. Omdat ik mijn breakdownschets erg nauwkeurig had gemaakt, was dit een makkelijk werkje. Ook heb ik me bezig gehouden met alle afbeeldingen stoppen in mijn html pagina. 
-    <img src="readme-images/html_inhoud.jpg" width="375px" alt="html inhoud">
+<img src="readme-images/html_inhoud.jpg" width="375px" alt="html inhoud">
 
     <sup>e</sup> voortgang</summary>
 
