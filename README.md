@@ -255,19 +255,26 @@ Animaties via CSS zijn manieren om elementen op een webpagina dynamisch te laten
 
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/screenshothomepaginaeind.png" width="375px" alt="Screenshot van mijn Dunkin home pagina resultaat">
-  <img src="readme-images/screenshotblogeind.png" width="375px" alt="Screenshot van mijn Dunkin blog pagina resultaat">
+  <img src="readme-images/screenshotblogpaginaeind.png" width="375px" alt="Screenshot van mijn Dunkin blog pagina resultaat">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
-- Ik heb geleerd hoe ik semantisch correct moet coderen (plaatje 1)
-- Ik
+- Ik heb geleerd hoe ik semantisch correct moet coderen (plaatje 1)  <img src="1.png" width="375px" alt="Screenshot semantisch correct coderen">
+- Ik heb geleerd om elementen aan te roepen in mijn html door middel van classes (plaatje 2)<img src="2.png" width="375px" alt="Screenshot html ellementen oproepen door css">
+- Hamburgerknop geleerd te maken met javascript erbij
+- Animaties geleerd te maken door middel van css en javascript
+- Ik heb veel geleerd over het element Sticky en hoe ik iets laat 'kleven' aan de bovenkant
+- DOM manipuleren
+- Advanced positioning met fixed
+- Geleerd hoe ik kan switchen naar een darkmode
+
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  - Navigatiemenu
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
